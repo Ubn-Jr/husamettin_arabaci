@@ -4,6 +4,7 @@ import "fmt"
 
 //TODO
 //Pull Request Düzenlemesi
+//DONE
 
 func main() {
 
