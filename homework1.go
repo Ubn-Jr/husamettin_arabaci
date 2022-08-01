@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+//TODO
+//Pull Request Düzenlemesi
+
 func main() {
 
 	//Toplam alanı tutmak için int türünde bir değişken tanımlanıyor
